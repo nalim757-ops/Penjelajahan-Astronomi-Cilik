@@ -1,0 +1,6 @@
+{
+  "name": "Kosmos Cilik - Eksplorasi Alam Semesta",
+  "description": "Petualangan interaktif mengagumkan menjelajahi keindahan tata surya, galaksi, bintang, dan misteri alam semesta untuk anak-anak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
